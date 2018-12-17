@@ -1,2 +1,3 @@
 Intially developer added line
 1. How are you I am developer -1
+2. Developer 2 is updated in remote repository

@@ -1,0 +1,50 @@
+SlNo	Day -1
+1	abruptly : suddenly and unexpectedly
+2	Bias : Partial or one-sided
+3	discrimination : Unfair or bias
+4	Eventually :in the end, in due course, by and by, in time, after some time
+5	hypothetically  : by imagining a possibility rather than reality
+6	Overlook: fail to notice
+7	Prospect:likelihood, hope, expectation, probability, possibility
+8	Robust : Strong or healthy or vigorous
+9	Unbiased : Neutral or open minded
+10	vigorous :  Strong ,Health or full of energy
+============================================================
+1	overwhelming : Huge , enormous,immense
+2	immense : Huge ,vast
+3	abandoned :Reckless
+4	impulsive :  spontaneous, emotional
+5	repeal : revoke, cancel, reverse
+6	overhaul : service, maintain, repair
+7	accomplish :Achieve ,Perform
+8	resumption :Restart
+9	levarage :  grip, purchase, hold; support
+10	grim :  uninviting, unsmiling
+=========================================================
+SlNo	Day3
+1	Exploit :  utilize,  use, make use of
+2	Conservative :  traditional, conventional,orthodox
+3	Offence : crime, illegal/unlawful act
+4	statutory : required, permitted
+5	interference : involvement, trespass
+6	disclosure : declaration, announcement, news
+7	Testify : confirm, prove,
+8	propaganda : advertising, publicity
+9	Persistent :nonstop, never-ending
+10	Discourse :  discussion, conversation, talk, dialogue
+===============================================================
+SlNo	Day-4
+1	Loom : emerge, appear, come into view,
+2	Lament  : Crying, Sorrow
+3	obscure :  unclear, uncertain, unknown
+4	Sabotage :  damage, destroy
+5	diversity : Variety, Mixture
+6	Refuge : safety, security
+7	Preserve :protect, maintain, care for,
+8	Resemble : look like, be similar to
+9	Ego : self-importance, self-respect
+10	Hypocricy : Dishonest, fraud,Duplicity
+===============================================================
+Day-5
+Incredible : unbelivable,hard to belive
+

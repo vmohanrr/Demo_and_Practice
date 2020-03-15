@@ -1,0 +1,27 @@
+properties = new Properties();
+properties.setProperty("mail.host", "imap.gmail.com");
+properties.setProperty("mail.port", "995");
+properties.setProperty("mail.transport.protocol", "imaps");
+session = Session.getInstance(properties,
+new javax.mail.Authenticator() {
+protected PasswordAuthentication getPasswordAuthentication() {
+return new PasswordAuthentication(userName, password);
+}
+});
+try {
+store = session.getStore("imaps");
+store.connect();
+inbox = store.getFolder("INBOX");
+inbox.open(Folder.READ_ONLY);
+Message messages[] = inbox.search(new FlagTerm(
+new Flags(Flag.SEEN), false));
+;
+
+
+
+Properties properties = null;
+private Session session = null;
+private Store store = null;
+private Folder inbox = null;
+private String userName = "";// provide user name
+private String password = "";// provide password
